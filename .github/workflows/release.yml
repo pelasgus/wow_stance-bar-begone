@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
     
     # Uncomment the following steps if you want to install Nix and Lua dependencies
     
